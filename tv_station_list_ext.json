@@ -1,0 +1,9 @@
+{
+    "stations": [
+        {
+            "name": "Nanjing News",
+            "logo": "nanjing_news_tv.png",
+            "url": ["http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8"]
+        }
+    ]
+}
